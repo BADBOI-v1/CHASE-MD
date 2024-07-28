@@ -21,7 +21,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `┏❏ ⌜ 𝐓𝐊𝐌-𝐁𝐎𝐓 𝐑𝐞𝐩𝐨 ⌟ ❐
+      const gitdata = `┏❏ ⌜ CHASE MD-𝐁𝐎𝐓 𝐑𝐞𝐩𝐨 ⌟ ❐
 ┃🗼 *REPOSITORY:* ${data.html_url}
 ┃✨ *STARS:* ${repoInfo.stars}
 ┃🧧 *FORKS:* ${repoInfo.forks}
