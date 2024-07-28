@@ -13,7 +13,7 @@ CHASE MD
 
 <p align="center">
   <a href="https://github.com/BADBOI-v1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?label=Followers&style=social"></a>
-  <a href="https://github.com/BADBOI-v1/CHASE MDstargazers/"><img title="STARS" src="https://img.shields.io/github/stars/BADBOI-v1/CHASE MD?&style=social"></a>
+  <a href="https://github.com/BADBOI-v1/CHASE MDstargazers/"><img title="STARS" src="https://img.shields.io/Github/stars/BADBOI-v1/CHASE MD?&style=social"></a>
   <a href="https://github.com/BADBOI-v1/CHASE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/CHASE-MD?style=social"></a>
   <a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/Github/watchers/BADBOI-v1/CHASE-MD?label=Watching&style=social"></a>
 </p>
