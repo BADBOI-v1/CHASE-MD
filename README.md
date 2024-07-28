@@ -1,28 +1,28 @@
-<p align="center">
-CHASE MD
-</p>
+# CHASE-MD
+   ## Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +CHASE-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
-  </p>
-
+<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
 <p align="center">
-  <a href="https://github.com/BADBOI-v1">
-    <img alt="CHASE MD bot logo" height="200" src="https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg">
-  </a>
+<img src="https://telegra.ph/file/002a9b9083252137d3dd6.mp4" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/BADBOI-v1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?label=Followers&style=social"></a>
-  <a href="https://github.com/BADBOI-v1/CHASE MDstargazers/"><img title="STARS" src="https://img.shields.io/Github/stars/BADBOI-v1/CHASE MD?&style=social"></a>
-  <a href="https://github.com/BADBOI-v1/CHASE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/CHASE-MD?style=social"></a>
-  <a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/Github/watchers/BADBOI-v1/CHASE-MD?label=Watching&style=social"></a>
+BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">CHASE-MD</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____CHASE+MD_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
+</p>
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/BADBOI-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MDstargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBOI-v1/CHASE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/CHASE-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/CHASE-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-BADBOI%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/BADBOI-v1/CHASE-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2BADBOI-v1%2FBLACK BADBOI-v1BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/BADBOI-v1/CHASE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
- **CHASE-MD Deployment Methods**
-
-•FORK THIS REPO
- <br>
- <a href='https://github.com/BADBOI-v1/CHASE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
  GET SESSION ID HERE
  <br>
