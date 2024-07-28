@@ -23,7 +23,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
 
  
 
-  if (!verifGroupe) { repondre("✋🏿 ✋🏿this command is reserved for groups ❌"); return; }
+  if (!verifGroupe) { repondre("✋🏿 ✋🏿this command is reserved for groups or BADBOI AND CHASE❌"); return; }
   if (!arg || arg === ' ') {
   mess = 'Aucun Message'
   } else {
@@ -32,13 +32,13 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        ⬡ ┃TKM bot┃ ⬡
+        ⬡ ┃CHASE bot┃ ⬡
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
 📜 Message : *${mess}* 📝
 
-⬡keep using⬡┃TKM bot┃⬡
+⬡keep using⬡┃CHASE bot┃⬡
 ========================\n
 \n
 
