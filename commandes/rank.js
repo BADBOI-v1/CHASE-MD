@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━⬡┃TKM bot┃⬡Rank⬡━━┓
+┏━━⬡┃CHASE bot┃⬡Rank⬡━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━⬡┃TKM bot┃⬡Rank⬡━━┓
+┏━━⬡┃CHASE bot┃⬡Rank⬡━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -251,7 +251,7 @@ zokou( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━⬡┃TKM bot┃⬡Top-Rank━┓\n\n`
+       let msg = `┏━⬡┃CHASE bot┃⬡Top-Rank━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
