@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">CHASE-MD</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+CHASE-MD 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI HACKER</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____CHASE+MD_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
