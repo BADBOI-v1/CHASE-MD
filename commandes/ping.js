@@ -55,7 +55,7 @@ zokou(
       ms, arg, repondre
     } = commandOptions;
     // data
-    const tumbUrl = 'https://i.ibb.co/wyYKzMY/68747470733a2f2f74656c656772612e70682f66696c652f6530376133643933336662346361643062333739312e6a7067.jpg';
+    const tumbUrl = 'https://i.ibb.co/bbXtTCm/16db6816-c7ab-4efc-bcd5-6ed651fedf0f.jpg';
     const used = process.memoryUsage();
     const cpus = os.cpus().map(cpu => {
       cpu.total = Object.keys(cpu.times).reduce((last, type) => last + cpu.times[type], 0);
