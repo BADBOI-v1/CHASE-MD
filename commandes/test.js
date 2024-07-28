@@ -7,9 +7,9 @@ zokou(
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello my name is  *⬡TKM⬡* \n\n " +
+            "Hello my name is  *⬡CHASE MD⬡* \n\n " +
             "i'm a whatsapp bot multi-device";
-        let d = " by *Cod3Uchiha*";
+        let d = " by *BADBOI*";
         let varmess = z + d;
         var img = "https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -28,7 +28,7 @@ async function  execute  (origineMessage,zok) {
    let z ='Salut je m\'appelle *Zokou* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Djalega++*'
       let varmess=z+d
-      var img='https://telegra.ph/file/626e7105422c8908f723d.jpg'
+      var img='https://telegra.ph/file/2fc766ab7467ded0fac9c.png'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */
 
