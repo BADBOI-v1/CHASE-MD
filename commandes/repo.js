@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Cod3Uchiha/TKM-bot';
-  const img = 'https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg';
+  const githubRepo = 'https://api.github.com/repos/BADBOI-v1/CHASE-MD';
+  const img = 'https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -27,7 +27,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
 ┃🧧 *FORKS:* ${repoInfo.forks}
 ┃📅 *RELEASE DATE:* ${releaseDate}
 ┃🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-┃👨‍💻 *OWNER* :Cod3Uchiha
+┃👨‍💻 *OWNER* :BADBOI HACKER 
 ┗❏`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
