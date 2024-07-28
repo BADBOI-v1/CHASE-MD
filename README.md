@@ -2,27 +2,27 @@
 TKM bot v²
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +CHASE-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4">
+  <a href="https://github.com/BADBOI-v1">
+    <img alt="CHASE MD bot logo" height="200" src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cod3Uchiha?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Cod3Uchiha?label=Followers&style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Cod3Uchiha/TKM-bot?&style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Cod3Uchiha/TKM-bot?style=social"></a>
-  <a href="https://github.com/Cod3Uchiha/TKM-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
+  <a href="https://github.com/BADBOI-v1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?label=Followers&style=social"></a>
+  <a href="https://github.com/BADBOI-v1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/BADBOI-v1/CHASE MD?&style=social"></a>
+  <a href="https://github.com/BADBOI-v1/CHASE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/CHASE-MD?style=social"></a>
+  <a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/CHASE-MD?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **CHASE-MD Deployment Methods**
 
 •FORK THIS REPO
  <br>
- <a href='https://github.com/Cod3Uchiha/TKM-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+ <a href='https://github.com/BADBOI-v1/CHASE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
  GET SESSION ID HERE
  <br>
@@ -36,7 +36,7 @@ TKM bot v²
 
 •Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Cod3Uchiha/TKM-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/BADBOI-v1/CHASE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 **DEPLOY ON RENDER**
 
@@ -65,7 +65,7 @@ postgresql://tkm:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a.ore
 
 •Deploy.
     <br>
-    <a href='https://replit.com/github/Cod3Uchiha/TKM-bot' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github.com/BADBOI-v1/CHASE-MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 **•Koyeb and Render Deploy now available**
 
@@ -75,22 +75,22 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>Danny</td>
-    <td>Cod3Uchiha</td>
+    <td>CHASE💰</td>
+    <td>🤴BADBOI👑</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/Cod3Uchiha"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
+    <td><a href="https://github.com/Chasenitro001"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/BADBOI-v1"><img src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4" width="180"</td>
   </tr>
 </table>
 
 **contributors**
 
 ```
-Lazak28•fixed Heroku ban
+Badboi hacker•fixed Heroku ban
 ```
 ```
-Beltahmd•fixed sleeping problem
+Badboi hacker•fixed sleeping problem
 ```
 
 * [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
