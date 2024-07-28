@@ -1,9 +1,9 @@
 # CHASE-MD
    ## Hi there 👋
 
-<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
+<h1 align="center">ꪶCHASE-MD BUGꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/002a9b9083252137d3dd6.mp4" />
+<img src="https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg" />
 </p>
 
 <p align="center">
