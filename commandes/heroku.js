@@ -5,7 +5,7 @@ const s = require('../set')
 zokou(
     {
         nomCom : "setvar",
-        categorie : "TKM-bot vars"
+        categorie : "CHASE-bot vars"
     }, async (dest , zk , commandeOptions) =>{
 
        const {ms,repondre,superUser , arg} = commandeOptions ;
@@ -33,7 +33,7 @@ zokou(
 zokou(
     {
         nomCom : "getallvar",
-        categorie : "TKM-bot vars"
+        categorie : "CHASE-bot vars"
     }, async (dest , zk , commandeOptions) =>{
 
        const {ms,repondre,superUser , arg} = commandeOptions ;
@@ -48,7 +48,7 @@ zokou(
 			let baseURI = "/apps/" + s.HEROKU_APP_NAME;
 
             let h = await heroku.get(baseURI+'/config-vars')
-let str = '*TKM-bot all vars*\n\n'
+let str = '*CHASE-bot all vars*\n\n'
 for (vr in h) {
 str+= '☉ *'+vr+'* '+'= '+h[vr]+'\n'
 }
@@ -63,7 +63,7 @@ str+= '☉ *'+vr+'* '+'= '+h[vr]+'\n'
     zokou(
         {
             nomCom : "getvar",
-            categorie : "TKM-bot vars"
+            categorie : "CHASE-bot vars"
         }, async (dest , zk , commandeOptions) =>{
     
            const {ms,repondre,superUser , arg} = commandeOptions ;
