@@ -1,5 +1,5 @@
 <p align="center">
-TKM bot v²
+CHASE MD
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +CHASE-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
@@ -7,7 +7,7 @@ TKM bot v²
 
 <p align="center">
   <a href="https://github.com/BADBOI-v1">
-    <img alt="CHASE MD bot logo" height="200" src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4">
+    <img alt="CHASE MD bot logo" height="200" src="https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg">
   </a>
 </p>
 
@@ -15,7 +15,7 @@ TKM bot v²
   <a href="https://github.com/BADBOI-v1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?label=Followers&style=social"></a>
   <a href="https://github.com/BADBOI-v1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/BADBOI-v1/CHASE MD?&style=social"></a>
   <a href="https://github.com/BADBOI-v1/CHASE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/CHASE-MD?style=social"></a>
-  <a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/CHASE-MD?label=Watching&style=social"></a>
+  <a href="https://github.com/BADBOI-v1/CHASE-MD/watchers"><img title="Watching" src="https://img.shields.io/Github/watchers/BADBOI-v1/CHASE-MD?label=Watching&style=social"></a>
 </p>
 
  **CHASE-MD Deployment Methods**
@@ -80,7 +80,7 @@ _Termux Setup not recommended_
   </tr>
   <tr>
     <td><a href="https://github.com/Chasenitro001"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/BADBOI-v1"><img src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4" width="180"</td>
+    <td><a href="https://github.com/BADBOI-v1"><img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" width="180"</td>
   </tr>
 </table>
 
@@ -93,6 +93,6 @@ Badboi hacker•fixed Heroku ban
 Badboi hacker•fixed sleeping problem
 ```
 
-* [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
+* [🧑‍💻 Follow The Script kiddie channel  whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x)
 
 
