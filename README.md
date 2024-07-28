@@ -7,7 +7,7 @@ TKM bot v²
 
 <p align="center">
   <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
+    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/d8e584d4b3b1926cdc7a7.mp4">
   </a>
 </p>
 
