@@ -15,7 +15,7 @@ zokou({ nomCom: "hacker",
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
         repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: " \t Logo by ⬡┃TKM bot┃⬡" }, { quoted: ms });
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: " \t Logo by ⬡┃CHASE bot┃⬡" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -24,7 +24,7 @@ zokou({ nomCom: "hacker",
 zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
     try {
-        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball TKM bot`;
+        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball CHASE bot`;
         //  if(arg=='') {await zok.sendMessage(dest,{text:noArgMsg},{quoted:infoMessage}); return;}
         if (arg == '' || !arg) {
             repondre(noArgMsg);
@@ -50,7 +50,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
     let { ms, arg, repondre, prefixe } = commandeOptions;
     try {
         if (!arg || arg == '') {
-            repondre("*_Exemple : * " + prefixe + "naruto Cod3Uchiha");
+            repondre("*_Exemple : * " + prefixe + "naruto BADBOI");
             return;
         }
         var nar = "https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html";
@@ -59,7 +59,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
         var radio2 = "e0723d60-fc0d-421f-bf8f-a9b9b61e4be6";
         var img = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", arg.join(' '));
         
-        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t Logo by ⬡┃TKM bot┃⬡" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t Logo by ⬡┃CHASE bot┃⬡" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -69,7 +69,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 /*zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre, arg, prefixe } = commandeOptions;
     
-    var titre = "\t Logo by ⬡┃TKM bot┃⬡";
+    var titre = "\t Logo by ⬡┃CHASE bot┃⬡";
     try {
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
@@ -91,10 +91,10 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
    try {
-     var titre = "\tLogo by ⬡┃TKM bot┃⬡";
+     var titre = "\tLogo by ⬡┃CHASE bot┃⬡";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong TKM bot`)
+           repondre(`*exemple :* ${prefixe}didong BADBOI bot`)
             return ;
         }
      
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      Logo by ⬡┃TKM bot┃⬡"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      Logo by ⬡┃CHASE bot┃⬡"});
     }catch(e){repondre(e)}
   
 })
@@ -457,7 +457,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" Logo by ⬡┃TKM bot┃⬡"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" Logo by ⬡┃CHASE bot┃⬡"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -476,7 +476,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" Logo by ⬡┃TKM bot┃⬡"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" Logo by ⬡┃CHASE bot┃⬡"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
