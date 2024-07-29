@@ -1,6 +1,6 @@
 {
-  "name":"CHASE-MD",
-  "description":"Deploy your CHASE MD bot now.Brought to you by the BADBOI.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"TKM-bot",
+  "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg",
   "repository":"https://github.com/BADBOI-v1/CHASE-MD",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"_*CHA 💰SE*_*MD*bot",
+      "value":"TKM bot",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/6cad0ed0565f1edfc94c0.jpg",
+      "value":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "CHASE"
+    "value": "Cod3Uchiha"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2347080541298,2348140825959"
+    "value": "263775571820,263785028126"
   },
     "WARN_COUNT":
   {
@@ -121,4 +121,4 @@
       "plan":"heroku-postgresql"
     }
   ]
-     }
+  }
