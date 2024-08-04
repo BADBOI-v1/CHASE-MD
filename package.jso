@@ -1,5 +1,5 @@
 {
-  "name": "TKM bot",
+  "name": "CHASE bot",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "TKM-BOT",
+    "CHASE-BOT",
     "whatsapp",
     "whatsapp-bot",
-    "Cod3Uchiha",
-    "Manjiro-Sano-md",
-    "Tkm bot",
-    "CodeUchiha"
+    "Badboi",
+    "CHA SE md",
+    "CHASE bot",
+    "lord Badboi"
   ],
-  "author": "Cod3Uchiha",
+  "author": "lord Badboi",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
