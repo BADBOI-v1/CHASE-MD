@@ -26,7 +26,7 @@ CHASE-MD 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:/
 
  GET SESSION ID HERE
  <br>
- <a href='https://chase-md-paring-code-generator-90e1e25ee362.herokuapp.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+ <a href='https://all-bot-paring-generator-by-badboi-hacker-dtow.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOY ON HEROKU**
 
