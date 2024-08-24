@@ -56,7 +56,11 @@ _value_
 ```
 postgresql://tkm:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a.oregon-postgres.render.com/takudzwa
 ```
-* [⭐️How to deploy on render⭐️](https://youtu.be/FiRpFMZZrMU?si=tyLUSRBqLt4wyfK-)
+
+-------
+## ```YOUTUBE CHANNEL FOR TUTORIALS```
+
+ - [ Click ](https://youtube.com/@BADBOI-k2i?si=1_Ae2h9Kl9IbAo7E)
 
 
 **DEPLOY ON REPLIT**
