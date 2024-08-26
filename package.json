@@ -1,5 +1,5 @@
 {
-  "name": "joel md",
+  "name": "chase md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "zokou"
   ],
-  "author": "joel tech",
+  "author": "chase tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
